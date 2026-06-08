@@ -1,1 +1,0 @@
-{"version":3,"file":"request-email-change.dto.js","sourceRoot":"","sources":["../../../src/auth/dto/request-email-change.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAC9C,qDAA0C;AAE1C,MAAa,qBAAqB;IAGhC,SAAS,CAAS;CACnB;AAJD,sDAIC;AADC;IAFC,IAAA,qBAAW,EAAC,EAAE,OAAO,EAAE,sBAAsB,EAAE,CAAC;IAChD,IAAA,yBAAO,EAAC,EAAE,EAAE,EAAE,OAAO,EAAE,iCAAiC,EAAE,CAAC;;wDAC1C"}
