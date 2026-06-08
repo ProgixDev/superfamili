@@ -10,11 +10,7 @@ async function bootstrap() {
     rawBody: true, // Required for Stripe webhook signature verification
   });
 
-  // CORS
-  app.enableCors({
-    origin: (process.env.CORS_ORIGINS || 'http://localhost:3000').split(','),
-    credentials: true,
-  });
+  app.enableCors({ origin: '*', credentials: false });
 
   // Global pipes
   app.useGlobalPipes(
